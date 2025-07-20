@@ -30,15 +30,18 @@ Core simulation code: C# / C++
 AI behavior scripting: Based on control systems theory and SLAM path planning
 YAML / JSON	Data-driven unit definitions
 
-**Repo Structure:**
-/100YearsWar
-├── /Physics             # Custom physics engine and logic
-├── /GameEngine          # Core logic for how the overall game works on top of the physics engine
-├── /Weapons             # Weapns defintions
-├── /Units               # Behavior models for units, formations, fatigue/morale, etc.
-├── /UI                  # Debug interfaces, camera controls, replay viewer
-├── /TestScenes          # Testbeds for different scenarios
-└── README.md
+    / 100YearsWar
+    ├── /Physics             # Custom physics engine and logic
+    ├── /GameEngine          # Core logic for how the overall game works on top of the physics engine
+    ├── /Weapons             # Weapns defintions
+    ├── /Units               # Behavior models for units, formations, fatigue/morale, etc.
+    ├── /UI                  # Debug interfaces, camera controls, replay viewer
+    ├── /TestScenes          # Testbeds for different scenarios
+    └── README.md
+
+    Total War – formation-based warfare
+
+    Robitcs control systems - physics based interaction and path planning
 
  Inspiration
 
