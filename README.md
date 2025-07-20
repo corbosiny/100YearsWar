@@ -25,10 +25,12 @@ A dynamic and strategic sandbox for medieval fantasy warfare built on in-depth p
     Mud, hills, foliage, and fog change tactics and influence movement and visibility.
 
 **Tech	Overview:**
-Game engine: Unity
-Core simulation code: C# / C++	
-AI behavior scripting: Based on control systems theory and SLAM path planning
-YAML / JSON	Data-driven unit definitions
+
+    Game engine: Unity
+    Core simulation code: C# / C++	
+    AI behavior scripting: Based on control systems theory and SLAM path planning
+    YAML / JSON	Data-driven unit definitions
+
 
     / 100YearsWar
     ├── /Physics             # Custom physics engine and logic
@@ -38,10 +40,6 @@ YAML / JSON	Data-driven unit definitions
     ├── /UI                  # Debug interfaces, camera controls, replay viewer
     ├── /TestScenes          # Testbeds for different scenarios
     └── README.md
-
-    Total War – formation-based warfare
-
-    Robitcs control systems - physics based interaction and path planning
 
  Inspiration
 
