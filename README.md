@@ -9,19 +9,19 @@ A dynamic and strategic sandbox for medieval fantasy warfare built on in-depth p
 
 **Desired Features:**
 
-    **Fully Simulated Combat:**
+    Fully Simulated Combat:
     Comabat is physics-driven, with accurate mass, inertia, and impact response.
 
-    **Modular AI Behavior:**
+    Modular AI Behavior:
     Agents make decisions based on local threats, terrain, and formation discipline. Morale and fatigue matter.
 
-    **Equipment-Based Outcomes:**
+    Equipment-Based Outcomes:
     Weapons interact with units realistically: weapons have mass and their impact can proportionally affect enemy formations.
 
-    **Dynamic and Mixed Formations & Unit Types:**
+    Dynamic and Mixed Formations & Unit Types:
     Infantry, cavalry, and skirmishers all can be mixed into groups to make unique and dynamic formations.
 
-    **Dynamic Terrain & Weather (Planned):**
+    Dynamic Terrain & Weather (Planned):
     Mud, hills, foliage, and fog change tactics and influence movement and visibility.
 
 **Tech	Overview:**
