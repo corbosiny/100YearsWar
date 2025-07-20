@@ -3,9 +3,10 @@
 A dynamic and strategic sandbox for medieval fantasy warfare built on in-depth physics simulation.
 
 **Overview:**
-100 Years war is a game aiming to model medieval battles not through rigid animation scripting, but by simulating real physics. With a focus on things like armor, inertia, leverage, and momentum.
 
-100 Years war is meant to explore how emergent tactics and battlefield chaos can arise from grounded systems.
+    100 Years war is a game aiming to model medieval battles not through rigid animation scripting, but by simulating real physics. With a focus on things like armor, inertia, leverage, and momentum.
+
+    100 Years war is meant to explore how emergent tactics and battlefield chaos can arise from grounded systems.
 
 **Desired Features:**
 
